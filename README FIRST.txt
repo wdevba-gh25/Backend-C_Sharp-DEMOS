@@ -13,8 +13,8 @@ Some projects have their own separate solution in case you want to run just that
  . HOWEVER, I've TRANSLATED THE SAME EXAMPLES
 TO C#, IN THE PROJECTS OF THE "ENLACEDINAMICO"(Dynamic binding) SOLUTION.
 The name of the solution is not related to all the projects in the solution.
-It is just a solution name that I've choosen because it was the first time
-I came across that concept back in 2009.
+It is just a solution name that I've choosen because it was the first time.
+
 
 
 IT IS IMPORTANT TO STUDY THE CONCEPTS OF THIS EXAMPLE 
