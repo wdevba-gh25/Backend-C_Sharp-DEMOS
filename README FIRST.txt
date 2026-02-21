@@ -1,6 +1,6 @@
 In this solution, I've included exercises that helped me study, analyze and practice the concepts applied in good object-oriented programming practices. I took many examples originally written on JAVA then translated them into C#. You'll need to "set as startup project" the project you want to analyze before running the whole solution. 
 
-I apologize for not translating the entire solution and this document. I've created it from scratch in Spanish back in 2009 when I started to get deeper and deeper into C#. 
+I apologize for not translating the entire solution and this document. 
 Translating ALL today into English would take me forever I really have very little time for that these days. But I think, since the code is in English it would rapidly make sense for anyone reading and studying them.
 Some projects have their own separate solution in case you want to run just that project without having to open all the projects. This set of projects has been opened recently with Visual Studio 2022. It should work fine for you:
 
